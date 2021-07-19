@@ -12,7 +12,7 @@ import statsmodels.api as sm
 import sys
 import  importlib
 importlib.reload(sys)
-sys.path.append(path+"/Notes/07 申请评分卡中的数据预处理和特征衍生/")
+#sys.path.append(path+"/Notes/07 申请评分卡中的数据预处理和特征衍生/")
 from scorecard_fucntions import *
 # -*- coding: utf-8 -*-
 
